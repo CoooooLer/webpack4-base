@@ -1,4 +1,4 @@
-# webpack4
+# webpack 4.29.6  vue/cli 3.5.3
 
 ## Project setup
 ```
