@@ -1,4 +1,17 @@
 # webpack 4.29.6  vue/cli 3.5.3
+##需要安装的插件
+```
+npm i webpack vue-loader
+npm i acorn
+npm install  webpack-cli
+npm i css-loader  
+npm i style-loader
+npm i url-lodaer file-loader  
+npm i stylus-loader stylus
+npm i webpack-dev-server
+npm i cross-env
+npm i html-webpack-plugin
+```
 
 ## Project setup
 ```
