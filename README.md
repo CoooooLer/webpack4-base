@@ -1,4 +1,4 @@
-# webpack 4.29.6  vue/cli 3.5.3
+# webpack 4.29.6 + vue/cli 3.5.3
 ## 依次安装的插件
 ```
 npm i webpack vue-loader
