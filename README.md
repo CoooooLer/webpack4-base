@@ -41,4 +41,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://github.com/CoooooLer/webpack4.x-extends).
+See [webpack4.x-extends](https://github.com/CoooooLer/webpack4.x-extends).
